@@ -1,0 +1,9 @@
+The energetic costs of the human connectome
+===============
+
+This dataset consists of quantitative FDG-PET, BOLD-fMRI, and DWI data from 20 right-handed, healthy individuals, acquired during rest on a Siemens Biograph mMR 3T PET-MR scanner from two independent cohorts:
+
+1. A within-subject exploration cohort (TUM.exp) with nine participants was acquired across two sessions, one with their eyes open and the other with their eyes closed (mean age = 43 years, std = 7 years; 4 females).
+2. A prospective replication cohort (TUM.rep) with eleven participants acuired with their eyes open (mean age = 27 years, std = 5 years; 6 females).
+
+ Additionally, blood radioactivity was measured every second through automatic sampling from the radial artery with a Twilite blood sampler.
